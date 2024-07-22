@@ -1,4 +1,11 @@
+streamlit
+plotly
+pandas
+python-git
 codecarbon
+memory_profiler
+setuptools
+accelerate
 PyYAML
 torch==2.0.0
 transformers==4.30.0
