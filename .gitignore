@@ -1,4 +1,6 @@
+venv/*
 refactor_3115/*
 refactor_env/*
+.env
 *.pdf
 *.png
