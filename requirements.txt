@@ -1,0 +1,13 @@
+streamlit
+plotly
+pandas
+python-git
+codecarbon
+transformers
+memory_profiler
+setuptools
+datasets
+torch
+datasets
+PyGithub
+accelerate
