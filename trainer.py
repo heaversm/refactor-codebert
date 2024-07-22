@@ -8,7 +8,7 @@ from github import Github
 # torch.backends.mps.enabled = False
 
 # GitHub setup
-github_token = "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"
+github_token = "YOUR_TOKEN"
 repo_name = "ShaliniAnandaPhD/Sea_Sifter"
 
 # file_path = "train.py"
